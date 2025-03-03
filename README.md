@@ -15,7 +15,7 @@ The core of this project involves processing CSI data to generate visual represe
 * **Software-Defined Radio (SDR):** Utilizes pre-recorded SDR data.
 * **IEEE® 802.11bf Compliance:** Aligns with WLAN sensing standards.
 
-## Visual Examples
+## CSI Data Visualization
 
 ![Example 1](https://github.com/user-attachments/assets/06890c06-f53d-4e06-aa47-d058515f21f8)
 
@@ -71,5 +71,6 @@ Follow these steps to set up and run the project:
 
 * `image_generator.py`: Generates images from the CSI dataset.
 * `CNN.py`: Implements and trains the CNN for human detection.
+* `EDA.ipynb`: Exploratory Data Analysis
 * `requirements.txt`: Lists the Python packages required for the project.
-* `README.md`: This document.
+
