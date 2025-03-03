@@ -9,5 +9,15 @@ Dataset link : https://utdallas.box.com/s/nlfb0utfmh06p8vptbqkodfop5ioyfic
 ![image](https://github.com/user-attachments/assets/b292ffa4-10a7-4624-89e7-6d42d1030707)
 ![image](https://github.com/user-attachments/assets/dad62d98-ccd4-4f1f-8996-aa44012b655a)
 
+#clone project
+got clone https://github.com/ranalila98/Wireless-Sensing---Human-Detection-with-CNN.git
+
+#install project
+cd Wireless-Sensing---Human-Detection-with-CNN
+pip install -r requirements.txt
+
+#Run
+python image_generator.py
+python CNN.py
 
 
