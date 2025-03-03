@@ -1,0 +1,58 @@
+# OS generated files #
+
+Thumbs.db
+desktop.ini
+
+# Python #
+*.pyc
+__pycache__/
+*.egg-info/
+*.pth
+*.pt
+*.onnx
+
+# Virtual environment #
+PyCuda/
+
+
+# PyTorch checkpoints and models #
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+# Data (if not essential for the code) #
+generated_images/
+dataset/
+
+# Logs and temp files #
+*.log
+logs/
+*.tmp
+~*
+temp/
+tmp/
+
+# IDE specific files #
+.idea/
+.vscode/
+*.suo
+*.sln
+*.user
+
+# Build artifacts #
+build/
+dist/
+
+# Jupyter Notebook checkpoints #
+.ipynb_checkpoints/
+
+# Other sensitive or large files #
+config.ini
+*.pem
+*.key
+*.csv 
+
+# Windows specific files
+*.swp
+*.swo
